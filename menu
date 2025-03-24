@@ -1,0 +1,35 @@
+# MENU
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu | Delicious Bites</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Delicious Bites</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="menu">
+        <h2>Our Menu</h2>
+        <ul>
+            <li><img src="images/pizza.png" alt="Pizza" width="100"> <strong>Pizza</strong> - ₹250</li>
+            <li><img src="images/burger.png" alt="Burger" width="100"> <strong>Burger</strong> - ₹150</li>
+            <li><img src="images/pasta.png" alt="Pasta" width="100"> <strong>Pasta</strong> - ₹180</li>
+            <li><img src="images/coffee.png" alt="Coffee" width="100"> <strong>Coffee</strong> - ₹100</li>
+        </ul>
+    </section>
+
+</body>
+</html>
