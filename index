@@ -1,0 +1,32 @@
+#HOME 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Bites</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <img src="images/logo.png" alt="Restaurant Logo" width="100">
+        <h1>Tasty Bites</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Welcome to Tasty Bites</h2>
+        <p>We serve delicious food with love.</p>
+        <img src="images/restaurant.png" alt="Restaurant Image">
+    </section>
+
+</body>
+</html>
